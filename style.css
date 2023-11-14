@@ -1,0 +1,30 @@
+button
+{
+    background-color: rgb(166, 134, 236);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px 20px; 
+    font-size: 30px;   
+    border-radius: 15%;
+    color: cornsilk;
+}
+
+canvas {
+    border:1px solid black;
+  
+
+
+}
+
+h1
+{
+   font-size: 50px;
+   font-family:fantasy;
+   color: rgb(2, 145, 138);
+}
+
+h2
+{
+    font-family:cursive;
+    color: cornflowerblue;
+    font-size: 40px;
+}
